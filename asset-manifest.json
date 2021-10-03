@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/soprue/movie_app_2021/static/css/main.24a28a64.chunk.css",
+    "main.js": "/soprue/movie_app_2021/static/js/main.c1a7f6ee.chunk.js",
+    "main.js.map": "/soprue/movie_app_2021/static/js/main.c1a7f6ee.chunk.js.map",
+    "runtime-main.js": "/soprue/movie_app_2021/static/js/runtime-main.d0e16f79.js",
+    "runtime-main.js.map": "/soprue/movie_app_2021/static/js/runtime-main.d0e16f79.js.map",
+    "static/js/2.12eb13c5.chunk.js": "/soprue/movie_app_2021/static/js/2.12eb13c5.chunk.js",
+    "static/js/2.12eb13c5.chunk.js.map": "/soprue/movie_app_2021/static/js/2.12eb13c5.chunk.js.map",
+    "index.html": "/soprue/movie_app_2021/index.html",
+    "static/css/main.24a28a64.chunk.css.map": "/soprue/movie_app_2021/static/css/main.24a28a64.chunk.css.map",
+    "static/js/2.12eb13c5.chunk.js.LICENSE.txt": "/soprue/movie_app_2021/static/js/2.12eb13c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0e16f79.js",
+    "static/js/2.12eb13c5.chunk.js",
+    "static/css/main.24a28a64.chunk.css",
+    "static/js/main.c1a7f6ee.chunk.js"
+  ]
+}
